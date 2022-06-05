@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on rs school.
+- 🔭 I’m currently working on rsschool.
 - 🌱 I’m currently learning language programming JS.
 - 👯 I’m looking to collaborate on fronted
 - 🤔 I’m looking for help with job.
